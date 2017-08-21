@@ -1,0 +1,1 @@
+{extends file="thuc_don/layout.tpl"}
